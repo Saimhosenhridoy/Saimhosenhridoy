@@ -12,7 +12,7 @@ I'm a CSE student at Dhaka International University. I love coding, volunteering
 - Open Source Contribution
 - Tech Blogging
 - ML & AI Projects
-- Photography & Videography
+- Photography
 
 ## Contact
 - Email: saimhosenhridoy@gmail.com
