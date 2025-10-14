@@ -4,9 +4,9 @@
 I'm a CSE student at Dhaka International University. I love coding, volunteering, and photography.
 
 ## Skills
-- Programming: Python, C/C++,  PHP (Laravel)
-- Database: SQL
-- ML/AI: Machine Learning basics, Data Analysis
+- Programming: Python, C/C++,  JavaScript(React,Node)
+- Database: SQL,MongoDB
+- ML/AI: Machine Learning ,Deep Lerning Basic, Data Analysis
 
 ## Interests
 - Open Source Contribution
